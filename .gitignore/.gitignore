@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Expo and React Native dependencies
+.expo/
+.expo-shared/
+assets/
+
+# SQLite database
+*.sqlite
+
+# Logs and cache
+*.log
+yarn-error.log
+.cache/
+
+# System files
+.DS_Store
+Thumbs.db
