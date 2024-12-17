@@ -1,7 +1,5 @@
 ﻿# react-native-restful-api
 
-# react-native-restful-api
-
 # Car Inventory Manager
 
 ## Project Description
